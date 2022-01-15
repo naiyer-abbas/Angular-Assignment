@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "full_name": "Naiyer Abbas",
+      "email": "nairabbas123@gmail.com",
+      "pass": "axbxc=abc",
+      "retype_pass": "sdfsdfsfrwe",
+      "add": "sdfsdfsdfgsd",
+      "id": 1
+    },
+    {
+      "full_name": "Naiyer Abbas",
+      "email": "nairabbas123@gmail.com",
+      "pass": "axbxc=abc",
+      "retype_pass": "axbxc=abc",
+      "add": "sdfsdfsdfgsd",
+      "id": 2
+    }
+  ]
+}

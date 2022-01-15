@@ -1,0 +1,13 @@
+<div class="container">
+	<div class="row">
+		<app-game-control (onNewTurn)="updateGameState($event)"></app-game-control>
+	</div>
+	<div class="row">
+		<ul>
+			<app-even *ngFor="let evenData of evens" [value]="evenData"></app-even>
+		</ul>
+		<ul>
+			<app-odd *ngFor="let oddData of odds" [value]="oddData"></app-odd>
+		</ul>
+	</div>
+</div>

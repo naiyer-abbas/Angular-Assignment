@@ -1,0 +1,28 @@
+<div class=" d-flex bg-dark min-vh-100 min-vw-100 align-items-center justify-content-center" style="background:url('https://i.picsum.photos/id/350/2560/1080.jpg?hmac=IfqUj66uZ8fzrvHH2c078_QJoSyudTfsiXbMd2a0LOY')">
+<div class="border border-2 border-danger rounded d-flex p-2 bg-light col-3  container align-self-center justify-content-center align-items-center mb-3 mt-3 flex-wrap">
+<div class="container mb-4">
+    <h2 class="text-success">Please Login to continue</h2>
+</div>
+<div class="container mt-4">
+    <form #myForm="ngForm">
+  
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Email address</label>
+        <input type="email" class="form-control" name="email" aria-describedby="emailHelp" ngModel>
+      </div>
+  
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Password</label>
+        <input type="password" class="form-control" name="pass" aria-describedby="emailHelp" ngModel>
+      </div>
+  
+  
+      <button type="submit" class="btn btn-primary" (click)="userLogin(myForm.value)">Sign in</button>
+      <div class="container-fluid mt-3">
+      <a [routerLink]="'../signup'">Don't have an account? Signup</a>
+      </div>
+    </form>
+  </div>
+</div>
+</div>
+

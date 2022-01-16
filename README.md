@@ -14,6 +14,10 @@ My assignment of ClickLabs as a part of 4 week pre-onboarding programme. This as
 1) DATA BINDING AND EVENT EMITTER WITH COMPONENTS.
 2) Created odd and even game control.
 
+
+
+https://user-images.githubusercontent.com/73434283/149659313-c0b71919-6fab-426c-a212-ae0b208e001e.mp4
+
 <p>
   <em> Short clip demonstrating the use of the simple website. Currently there are three pages in this website: Login, Signup and the dashboard. The user must signup first if not registered. Then login to access the dashboard.</em>
 </p>  

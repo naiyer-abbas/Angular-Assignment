@@ -1,4 +1,4 @@
-# ** Clicklabs Pre-Boarding Assignment 2022 **  
+# **Clicklabs Pre-Boarding Assignment 2022**  
 My assignment of ClickLabs as a part of 4 week pre-onboarding programme. This assignment is all about going through and understanding the necessary concepts of the Angular Framework.
 
 ## Assignment Details:

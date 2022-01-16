@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/73434283/149659313-c0b71919-6fab-426c-
 1. Angular Framework
 2. Bootstrap 5.0
 3. JSON-Server (For backend testing)
+4. Nodejs
   
 ## SETUP:  
 

@@ -11,7 +11,7 @@ import {GlobalConstants} from './common/globals'
 
 export class AppComponent {
   val = GlobalConstants.is_logged;
-  title = 'My_Delivery_App';
+  title = 'My_Website';
   constructor(private router: Router) { }
   goTopage(page: string):void{
     this.router.navigate([`${page}`]);

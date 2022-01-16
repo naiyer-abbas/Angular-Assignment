@@ -3,18 +3,10 @@
     {
       "full_name": "Naiyer Abbas",
       "email": "nairabbas123@gmail.com",
-      "pass": "axbxc=abc",
-      "retype_pass": "sdfsdfsfrwe",
-      "add": "sdfsdfsdfgsd",
+      "pass": "12345678",
+      "retype_pass": "12345678",
+      "add": "xyz",
       "id": 1
-    },
-    {
-      "full_name": "Naiyer Abbas",
-      "email": "nairabbas123@gmail.com",
-      "pass": "axbxc=abc",
-      "retype_pass": "axbxc=abc",
-      "add": "sdfsdfsdfgsd",
-      "id": 2
     }
   ]
 }
